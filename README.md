@@ -20,7 +20,7 @@ In Module 3 we learned about the Client-Side using ReactJS, how to create Single
 
 - React IronNutrition: Starting to use React forms creating a basic web with an add option and also a Search Bar.
 
-- Wiki Countries: Creating our Wikipedia for countries using a JSON database. We used different components, react-router collection and practicing some basic life-cycle methods like componentDidMount().
+- Wiki Countries: Creating our Wikipedia for countries using a JSON database. We use different components, react-router collection and practicing some basic life-cycle methods like componentDidMount().
 
 - React IronBeers: Building a React app with connection to an API (server) from Heroku with different endpoints. The app includes different components and the options to create some elements, check all the created elements or the details of a single element and get a random element.
 
@@ -28,5 +28,8 @@ In Module 3 we learned about the Client-Side using ReactJS, how to create Single
 
   
 
+------
 
+### Associated project
 
+In week 9 begins the Module 3 project, which we do in pairs, and that we named **SplitApp**. The project is a single-page Web application using the MERN stack (MongoDB, Express, React and Node.js). We use React for all of the user-facing parts of our application, Express.js for our API back-end that our React app communicates with and Mongoose for models and database communication. The app includes sign up, log in and log out functionalities with encrypted passwords and authorization. You can the deploy on Heroku [here](https://project3ih.herokuapp.com/login).
