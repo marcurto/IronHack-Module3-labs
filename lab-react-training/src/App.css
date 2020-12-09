@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.cards-section{
+  display: flex;
+  flex-direction: column;
+}
+
+.cards-section h1{
+  text-align: left;
+  margin-left: 30px;
+}

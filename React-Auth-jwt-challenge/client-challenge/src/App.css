@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  padding: 20px;;
+}
+
+nav.navbar { 
+  display: flex;
+  padding: 20px;
+  background: #686de0; 
+}
+
+nav.navbar .navbar-user{
+  margin-left: 10px;
+  color: white;
+}
+
+button.navbar-button {
+  padding: 5px 20px;
+  width: 100px;
+  border-radius: 3px;
+  margin: 0 10px;
+}
+
+#home-btn {
+  color: white;
+  text-decoration: none;
+}

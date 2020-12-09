@@ -1,0 +1,14 @@
+.card{
+    padding: 20px 20px;
+    text-align: left;
+}
+
+.card h3{
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+.card p{
+    font-size: 1.7em;
+    font-weight: 100;
+    color: rgb(87, 87, 87);
+}

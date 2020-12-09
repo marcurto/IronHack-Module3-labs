@@ -1,0 +1,35 @@
+.header{
+    background-color: #1f2535;
+    background-image: url("/images/react-logo.svg");
+    color: white;
+    height: 100vh;
+}
+.nav-bar{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+.nav-bar img{
+    padding: 20px 60px;
+}
+.header-content{
+    padding-left: 100px;
+}
+.header-content h1{
+    font-size: 6em;
+    font-weight: 900;
+    margin-top: 90px;
+    margin-bottom: 10px;
+}
+.header-content p{
+    font-size: 2em;
+    margin-top: 0px;
+}
+.header-content button{
+    border: none;
+    border-radius: 5%;
+    color: #1f2535;
+    font-size: 1.8em;
+    padding: 25px 30px;
+    margin-top: 70px;
+}
